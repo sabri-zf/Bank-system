@@ -1,0 +1,18 @@
+﻿  bank extationByclass.cpp
+C:\Users\Samsung\source\repos\new project\new project\clsString.h(26,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Samsung\source\repos\new project\new project\clsString.h(48,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Samsung\source\repos\new project\new project\clsString.h(113,21): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\Samsung\source\repos\new project\new project\clsString.h(156,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Samsung\source\repos\new project\new project\clsString.h(269,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Samsung\source\repos\new project\new project\clsString.h(329,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Samsung\source\repos\new project\new project\clsString.h(346,14): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Samsung\source\repos\new project\new project\clsDate.h(1,33): warning C4081: expected 'newline'; found ';'
+C:\Users\Samsung\source\repos\new project\new project\clsUpdateCurrency.h(45,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samsung\source\repos\new project\new project\clsCalculaterCurrency.h(33,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samsung\source\repos\new project\new project\clsCalculaterCurrency.h(37,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samsung\source\repos\new project\new project\clsCalculaterCurrency.h(44,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samsung\source\repos\new project\new project\clsCalculaterCurrency.h(50,27): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Samsung\source\repos\new project\new project\clsLogInscreen.h(41): warning C4715: 'clsLogInscreen::_logIn': not all control paths return a value
+C:\Users\Samsung\source\repos\new project\new project\clsBankClient.h(313): warning C4715: 'clsBankClient::transfer': not all control paths return a value
+C:\Users\Samsung\source\repos\new project\new project\clsUser.h(235): warning C4715: 'clsUser::Save': not all control paths return a value
+  new project.vcxproj -> C:\Users\Samsung\source\repos\new project\x64\Debug\new project.exe
