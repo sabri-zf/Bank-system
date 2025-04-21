@@ -9,10 +9,8 @@
 <div>principle :</div>
 <li> <b>. principle Object Oriented Programming </b></li>
 <li> <b>. principle Clean Code </b></li>
+<div style = "height = 10px;width = 100%; background-color = white;> </div>
 <div> </div>
-<div> </div>
-
-<p>The project Is very pretty ,If you want establish him :) </p>
 
 
 
